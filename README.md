@@ -12,13 +12,13 @@ Jobs with a **matching score above 70%** are returned to the user.
 
 ## Processing Flow
 
-![Processing](processing.png)
+![Processing](Processing.png)
 
 ---
 
 ## Matching Result Example
 
-![Result](result.png)
+![Result](Result.png)
 
 ---
 

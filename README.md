@@ -6,4 +6,3 @@ pip install torch, transformers, pdfplumber, PySide6, bs4, lxml, selenium, undet
 At least 4GB's GPU
 apply for Llama-3.2-3B-Instint on HuggingFace, wait until it's approved.
 If any libraries missed, install that library. if any error happens, ask gpt, the code works fine.
-
